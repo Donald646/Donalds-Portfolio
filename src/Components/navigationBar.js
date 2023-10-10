@@ -1,14 +1,11 @@
 import * as React from "react";
 import {
-  Box,
   Drawer,
   Divider,
   List,
   ListItem,
   ListItemButton,
   ListItemText,
-  Typography,
-  Paper,
   Avatar,
 } from "@mui/material";
 import { Link as ScrollLink } from "react-scroll";

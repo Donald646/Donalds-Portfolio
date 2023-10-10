@@ -2,7 +2,7 @@ import "./App.css";
 import { useState } from "react";
 import NavigationBar from "./Components/navigationBar";
 import HomePage from "./Components/homePage";
-import { Box, Paper } from "@mui/material";
+import { Box } from "@mui/material";
 import AboutPage from "./aboutPage";
 import EducationPage from "./Components/educationPage";
 
